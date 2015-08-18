@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Kurtis And Cloud
+locale: en_CA
+description: We do drone photography at affordable prices!
 logo: site-logo.png
 search: true
 url: http://keeg0222.github.io/KurtisAndCloud
@@ -33,12 +33,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Kurtis Heild
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: kurtisandcloud@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: kurtisandcloud/
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
