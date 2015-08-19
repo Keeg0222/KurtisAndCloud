@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.jpeg
-thumbnail: startup-framework.jpeg
+img: startup-framework.jpg
+thumbnail: startup-framework.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
