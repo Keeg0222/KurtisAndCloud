@@ -1,30 +1,17 @@
-Agency Jekyll theme
+Kurtis And Cloud
 ====================
+#We Use This Theme!
 
 Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
-# How to use
+# Copyright
 
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
+(c) Kurtisandcloud, 2015, All rights reserved.
 
 ###Team
 
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+Kurtis Heild (Cinamatographer and Photographer)
 
 
-# Demo
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
-=========
-For more details, read [documentation](http://jekyllrb.com/)
